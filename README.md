@@ -13,7 +13,7 @@ This repository contains the source code for a gym website, implemented as a sin
 > - Open the index.html file in your browser.
 >
 
-### project Live URL: See Demo
+### project Live URL: [See Demo](https://saharmhi.github.io/gym-website/)
 
 
 # ScreenShot
